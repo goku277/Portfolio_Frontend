@@ -1,0 +1,25 @@
+ol {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+  }
+  
+  ol li {
+    padding: 0 8px;
+  }
+
+  .bold-text {
+    font-size: 25px;
+  }
+
+  a {
+    color: firebrick;
+  }
+
+  .portfolio-link ol li a:hover {
+    color: darkgreen;
+  }
+
+  p {
+    text-align: left;
+  }

@@ -1,0 +1,22 @@
+.main-header {
+  display: flex;
+  background-color: #099FF0;
+  color: aliceblue;
+  height: min-content;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul {
+    display: flex;
+}
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+    justify-content: space-between;
+    padding: 35px;
+}

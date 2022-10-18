@@ -1,0 +1,27 @@
+.bold-text {
+    font-size: 25px;
+    text-align: left;
+}
+
+.fw-light {
+    text-align: left;
+}
+
+#date {
+    text-align: right;
+}
+
+ul {
+    display: flex;
+    /* justify-content: center; */
+    list-style: none;
+    justify-content: space-between;
+  }
+  
+ul li {
+    padding-right: 5px;
+}
+
+h6 {
+    padding-right: 25px;
+}

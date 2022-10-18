@@ -1,0 +1,18 @@
+#container {
+    padding: 5px;
+    padding-top: 50px;
+}
+
+p {
+    text-align: left;
+}
+
+.bold-text {
+    font-size: 25px;
+}
+
+img {
+    margin-top: 50px;
+    width: 150px;
+    height: 150px;
+}
